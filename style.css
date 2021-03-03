@@ -1,0 +1,95 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+html {
+  background-image: url(https://images.unsplash.com/photo-1611072337226-1140ab367200?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=979&q=80);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Offside, "Times New Roman", serif;
+  margin: 0 auto;
+  line-height: 1.5em;
+  width: 90%;
+}
+
+h1 {
+  background-color: rgba(0, 0, 0, .4);
+  border-radius: 10px;
+  padding: 25px;
+}
+
+strong {
+  color: blue;
+}
+
+em {
+  color: green;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: red;
+}
+
+#bones {
+  width: 40%;
+  margin: 0 auto;
+  display: block;
+}
+
+table {
+  width: 90%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+th {
+  background-color: rgba(0,0,0,.4)
+}
+
+table, th, tr, td {
+  border: 1px solid black;
+  padding: 10px;
+  border-collapse: collapse;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.center {
+  text-align: center;
+}
+
+hr {
+  border: 2px solid black;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
